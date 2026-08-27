@@ -1,0 +1,12 @@
+{
+  "name": "securl-browser-extension",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test && node scripts/validate-manifest.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
