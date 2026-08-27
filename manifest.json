@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "SecURL: Check a Link",
+  "version": "0.1.0",
+  "description": "Trace where a public link goes before deciding whether to open it.",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}
