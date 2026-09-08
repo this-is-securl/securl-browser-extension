@@ -48,5 +48,6 @@ links. No other extension permission or host permission is requested.
 
 - Extension icon: `icons/icon-128.png`
 - Small promotional tile: `store-assets/small-promo.png` (440x280)
+- Marquee promotional tile: `store-assets/marquee-promo.png` (1400x560)
 - Screenshot 1: `store-assets/screenshot-link-result.jpg` (1280x800)
 - Screenshot 2: `store-assets/screenshot-redirect-evidence.jpg` (1280x800)

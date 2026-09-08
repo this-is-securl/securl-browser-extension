@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="560" viewBox="0 0 1400 560">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d18"/>
+      <stop offset="1" stop-color="#17142d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.24" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#6f75ff" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#6f75ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#929dff"/>
+      <stop offset="1" stop-color="#6570ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="560" fill="url(#background)"/>
+  <rect width="1400" height="560" fill="url(#glow)"/>
+  <path d="M300 118c92 0 150 43 150 115v78c0 80-70 134-150 168-80-34-150-88-150-168v-78c0-72 58-115 150-115Z" fill="url(#shield)"/>
+  <path d="m228 294 49 57 101-137" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="31"/>
+  <text x="535" y="226" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="700">SecURL</text>
+  <text x="535" y="304" fill="#f1f3f9" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="600">Check a link before you open it</text>
+  <text x="535" y="368" fill="#a9afc0" font-family="Arial, Helvetica, sans-serif" font-size="30">Trace redirects. Review the destination.</text>
+  <text x="535" y="412" fill="#a9afc0" font-family="Arial, Helvetica, sans-serif" font-size="30">Make the decision yourself.</text>
+</svg>
